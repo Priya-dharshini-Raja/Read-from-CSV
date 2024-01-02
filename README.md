@@ -17,7 +17,7 @@ Print the output
 
 ## PROGRAM:
 
-'''
+```
 #Developed by : Priyadharshini Raja
 #Register number : 23013908
 
@@ -27,8 +27,8 @@ print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
-
 ```
+
 
 
 ### OUTPUT:
